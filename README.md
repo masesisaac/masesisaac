@@ -1,7 +1,7 @@
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there!
 
 ### About Me
 
 - 👨‍💻 I'm currently working full-time at **Simple Habit**.
-- 🌱 Learning more about and studying: **React Native, Flutter, NextJs**.
+- 🌱 Learning more about and studying: **Deep Learning, AI**.
 - 💙 Interests: games 👾 , music 🎧.
